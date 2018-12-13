@@ -107,3 +107,42 @@ body {
   }
 
 }
+
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  article p {
+    margin: 0 0 1.5rem;
+  }
+
+  article header {
+    margin-bottom: 1.5rem;
+  }
+
+  article > p:last-child {
+    padding-bottom: 1.5rem;
+  }
+
+  blockquote {
+    margin: 0 0 1.5rem;
+  }
+
+  header {
+    padding-top: 1.5rem;
+  }
+
+  article ol {
+    margin-bottom: 1.5rem;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+  }
