@@ -29,7 +29,7 @@ article h1 {
 
 article header {
   border-bottom: 1px solid #999;
-  margin-bottom: 1rem;
+  margin-bottom: 1.3rem;
 }
 
 article header p {
@@ -38,7 +38,7 @@ article header p {
 
 article > p:last-child {
   border-bottom: 1px solid #999;
-  padding-bottom: 1rem;
+  padding-bottom: 1.3rem;
 }
 
 blockquote {
